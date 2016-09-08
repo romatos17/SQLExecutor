@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<script-bancos>
+
+	<script-arquivo>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\MODULO INFRA\SCRIPTS\01_DDL_ADICAO_RODAR_SCRIPTS_COM_OWNER_SCIENCE.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>true</ativo>
+		<index>1</index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\MODULO INFRA\SCRIPTS\02_DML_RODAR_SCRIPTS_COM_OWNER_SCIENCE.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>true</ativo>
+		<index>2</index>
+	</script-arquivo>
+
+	<script-arquivo>
+		<chave>SCIENCE-BCV</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\MODULO INFRA\SCRIPTS\03_Rodar SYNONYM_com_Usuario_USR_SCIENCEALL.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>true</ativo>
+		<index>3</index>
+	</script-arquivo>
+
+	<script-arquivo>
+		<chave>SCIENCE-BCV</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\SCIENCE NOVO\BANCO DE DADOS\03 - SYNONYM.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\Jobs Bartira\Novos 14 JOBS\GERAL\01 - DDL.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV</chave>
+		<caminho-arquivo>D:\Users\romatos\Desktop\Jobs Bartira\Novos 14 JOBS\GERAL\02 - SYNONYM.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<caminho-arquivo>C:\Users\Rodrigo\Desktop\Comandos SQL para rodar\01_DDL_ADICAO_RODAR_SCRIPTS_COM_OWNER_SCIENCE.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<caminho-arquivo>C:\Users\Rodrigo\Desktop\Comandos SQL para rodar\02_DML_RODAR_SCRIPTS_COM_OWNER_SCIENCE.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+	
+	<script-arquivo>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<caminho-arquivo>C:\Users\Rodrigo\Desktop\Comandos SQL para rodar\01 - DDL JOB GERAL.sql</caminho-arquivo>
+		<thread>false</thread>
+		<ativo>false</ativo>
+		<index></index>
+	</script-arquivo>
+
+</script-bancos>

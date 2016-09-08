@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<config-bancos>
+	<banco-dados>
+		<chave>SCIENCE-BCV</chave>
+		<url>jdbc:oracle:thin:@10.240.2.12:1521:SMAPBCV</url>
+		<driver>oracle.jdbc.driver.OracleDriver</driver>
+		<usuario>usr_scienceall</usuario>
+		<senha>janela2012</senha>
+		<qtdConexoes>1</qtdConexoes>
+		<qtdParticoes>1</qtdParticoes>
+		<ativo>true</ativo>
+	</banco-dados>
+	<banco-dados>
+		<chave>SCIENCE-BCV-GRAND</chave>
+		<url>jdbc:oracle:thin:@10.240.2.12:1521:SMAPBCV</url>
+		<driver>oracle.jdbc.driver.OracleDriver</driver>
+		<usuario>science</usuario>
+		<senha>vivobaba2012</senha>
+		<qtdConexoes>1</qtdConexoes>
+		<qtdParticoes>1</qtdParticoes>
+		<ativo>true</ativo>
+	</banco-dados>
+	<banco-dados>
+		<chave>DESATIVADO</chave>
+		<url>jdbc:oracle:thin:@XXX.XXX.XXX.XXX:XXXX:XXXX</url>
+		<driver>oracle.jdbc.driver.OracleDriver</driver>
+		<usuario>XXX</usuario>
+		<senha>XXX</senha>
+		<qtdConexoes>1</qtdConexoes>
+		<qtdParticoes>1</qtdParticoes>
+		<ativo>false</ativo>
+	</banco-dados>
+</config-bancos>

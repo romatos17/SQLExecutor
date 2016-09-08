@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<config>
+	<config-thread>
+		<qtd-thread>5</qtd-thread>
+		<time-por-thread>200</time-por-thread>
+	</config-thread>
+</config>
